@@ -6,6 +6,8 @@ and it uses a cloned voice 😉
 
 ### Demo!
 
+https://user-images.githubusercontent.com/60443878/235424083-48625a00-7839-4951-ab71-db6c538f1c8f.mp4
+
 ### Setup
 
 1. Grab an openai api key from [here](https://beta.openai.com/) and add it to your .env file
@@ -25,5 +27,7 @@ if you got value from this -- plz toss a github star 🙂⭐
 #### Connect w/ me!
 
 https://twitter.com/aleemrehmtulla
+
 https://aleemrehmtulla.com
+
 https://www.linkedin.com/in/aleemrehmtulla/
