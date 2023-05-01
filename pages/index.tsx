@@ -161,7 +161,7 @@ function EspanolLove() {
         bottom={4}
         right={4}
         as="a"
-        href="https://github.com/aleemrehmtulla/espanollove"
+        href="https://github.com/aleemrehmtulla/espanol-love"
       >
         Deploy your own! <Icon ml={2} as={FaGithub} />
       </Button>
